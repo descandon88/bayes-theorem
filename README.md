@@ -1,7 +1,7 @@
 # Bayes' Theorem
 Resources about Bayes' Theorem 
 # Definition
-Bayes’ theorem is a formula that governs how to assign a subjective degree of belief to a hypothesis and rationally update that probability with new evidence. Mathematically, it's the the likelihood of event 
+Bayes’ theorem is a formula that governs how to assign a subjective degree of belief to a hypothesis and rationally update that probability with new evidence. Mathematically, it's the likelihood of event 
 
 B occurring given that A is true.
 
