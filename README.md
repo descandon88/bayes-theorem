@@ -9,4 +9,5 @@ This is the fundamental tool and methodology behind Bayesian probability, statis
 
 Both frequentist and Bayesian probability have a role to play in machine learning. For example, if dealing with truly random and discrete variables, such as landing a six in a die roll, the traditional approach of simply calculating the odds (frequency) is the fastest way to model a likely outcome. However, if the six keeps coming up far more often than the predicated 1/6 odds, only Bayesian probability would take that new observation into account and increase the confidence level that someone is playing with loaded dice
 # Links
-https://deepai.org/machine-learning-glossary-and-terms/bayes-theorem
+1. https://deepai.org/machine-learning-glossary-and-terms/bayes-theorem
+2. https://machinelearningmastery.com/bayes-theorem-for-machine-learning/
